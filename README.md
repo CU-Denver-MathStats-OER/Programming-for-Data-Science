@@ -2,6 +2,8 @@
 
 This repo contains a Jupyter notebook based course used for the MATH 1376: Programming for Data Science at CU Denver.
 
+This material is designed to be run in [Google Colab](https://colab.research.google.com/). A short [13 minute tutorial video](https://youtu.be/8cjcjN5csxc) is designed to help new users get started with both Colab and accessing these materials directly through Colab. 
+
 The material is split into six modules:
 
 - Module 01 covers the basics of working within Jupyter notebooks.
